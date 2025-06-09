@@ -1,6 +1,4 @@
-Here’s a clean and well-structured `README.md` file in **English** for your **RNN-based Spotify song popularity prediction project**, ready for GitHub:
 
----
 
 # 🎵 RNN-Based Spotify Song Popularity Prediction
 
